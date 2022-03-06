@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    color: darkblue;
+}
+
+.berk{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;    
+}
+
+span{
+    font-size: 30px;
+}
+
+li{
+    height: 50px;
+}
+
+section{
+    display: flex;
+}
+
+.col{
+    width: 50%;
+}
